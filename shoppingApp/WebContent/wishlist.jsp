@@ -9,15 +9,9 @@
 <title>WISHLIST PAGE</title>
 </head>
 <body>
-	<p>
-		<a href="index.jsp">GO BACK HOME PAGE</a>
-	</p>
-	<p>
-		<a href="cart.jsp"><img src="images/cart.png" width="30" height="30"></a>
-	</p>
-	<p>
-		<a href="LogoutServlet"><img src="images/logout.jpg" width="30" height="30"></a>
-	</p>
+	<p><a href="index.jsp">GO BACK HOME PAGE</a></p>
+	<p><a href="cart.jsp">My Cart</a></p>
+	<p><a href="LogoutServlet">Logout</a></p>
 	<jsp:useBean id="wishlistService" class="com.demo.service.WishlistService" />
 	<table class="table table-striped table-bordered table-hover">
 		<tr class="table-primary">
