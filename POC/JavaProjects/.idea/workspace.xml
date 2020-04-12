@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e6bf6db-dcc1-4cac-a1fd-8deb5c3e5146" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y2gaXSzYQmco1hFMZDPizSLgQS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.Test14Stream_Methods">
+    <configuration name="Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.ttttsstttt.Method" />
+      <module name="JavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacore.ttttsstttt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test11Function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.test.demos.Test11Function" />
+      <module name="JavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacore.test.demos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test12FunctionAndThen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.test.demos.Test12FunctionAndThen" />
+      <module name="JavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacore.test.demos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test13Stream_forEach_filter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.test.demos.Test13Stream_forEach_filter" />
+      <module name="JavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacore.test.demos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test14Stream_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.test.demos.Test14Stream_Methods" />
+      <module name="JavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacore.test.demos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test14Stream_Methods" />
+        <item itemvalue="Application.Test13Stream_forEach_filter" />
+        <item itemvalue="Application.Method" />
+        <item itemvalue="Application.Test12FunctionAndThen" />
+        <item itemvalue="Application.Test11Function" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e6bf6db-dcc1-4cac-a1fd-8deb5c3e5146" name="Default Changelist" comment="" />
+      <created>1582146166626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582146166626</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Scopes" timestamp="1582229124850">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Scopes/0.0.1536.824@0.0.1536.824" timestamp="1582229124850" />
+    <state x="200" y="141" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583270322238">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="200" y="141" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1583270322238" />
+    <state x="651" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582676153884" />
+    <state x="1148" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1582150957150">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1148" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1582150957150" />
+    <state x="475" y="272" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583270309337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="272" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1583270309337" />
+    <state x="927" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582675887567">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="927" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582675887567" />
+    <state width="1493" height="114" key="GridCell.Tab.0.bottom" timestamp="1586395944478">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="114" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586395944478" />
+    <state width="1235" height="56" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583214788198" />
+    <state width="1493" height="114" key="GridCell.Tab.0.center" timestamp="1586395944478">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="114" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586395944478" />
+    <state width="1235" height="56" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583214788198" />
+    <state width="1493" height="114" key="GridCell.Tab.0.left" timestamp="1586395944478">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="114" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586395944478" />
+    <state width="1235" height="56" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583214788198" />
+    <state width="1493" height="114" key="GridCell.Tab.0.right" timestamp="1586395944478">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="114" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586395944478" />
+    <state width="1235" height="56" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583214788198" />
+    <state width="978" height="261" key="GridCell.Tab.1.bottom" timestamp="1583188353720">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="978" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583188353720" />
+    <state width="978" height="261" key="GridCell.Tab.1.center" timestamp="1583188353720">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="978" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1583188353720" />
+    <state width="978" height="261" key="GridCell.Tab.1.left" timestamp="1583188353720">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="978" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1583188353720" />
+    <state width="978" height="261" key="GridCell.Tab.1.right" timestamp="1583188353720">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="978" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1583188353720" />
+    <state x="321" y="0" key="SettingsEditor" timestamp="1586707386895">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="321" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586707386895" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1586707075376">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586707075376" />
+    <state x="576" y="303" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583194116519" />
+    <state x="809" y="47" width="686" height="735" key="find.popup" timestamp="1582149408494">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="809" y="47" width="686" height="735" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1582149408494" />
+    <state x="190" y="16" key="new project wizard" timestamp="1586706797470">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="190" y="16" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1586706797470" />
+    <state x="1001" y="158" key="run.anything.popup" timestamp="1583177111474">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1001" y="158" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1583177111474" />
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586357185381">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586357185381" />
+  </component>
+</project>
