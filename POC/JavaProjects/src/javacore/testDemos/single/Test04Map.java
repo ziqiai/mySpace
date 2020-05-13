@@ -1,4 +1,4 @@
-package javacore.test.demos;
+package javacore.testDemos.single;
 
 import java.util.HashMap;
 import java.util.Scanner;

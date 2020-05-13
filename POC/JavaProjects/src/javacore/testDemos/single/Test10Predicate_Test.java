@@ -1,4 +1,4 @@
-package javacore.test.demos;
+package javacore.testDemos.single;
 
 import java.util.ArrayList;
 import java.util.function.Predicate;

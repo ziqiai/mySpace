@@ -1,4 +1,4 @@
-package javacore.innerclasses.demo02;
+package javacore.innerclasses.demo.demo02;
 
 public class DemoMain {
 
