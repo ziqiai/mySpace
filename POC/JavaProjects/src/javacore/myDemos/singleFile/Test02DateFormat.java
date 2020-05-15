@@ -1,4 +1,4 @@
-package javacore.testDemos.singleFile;
+package javacore.myDemos.singleFile;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

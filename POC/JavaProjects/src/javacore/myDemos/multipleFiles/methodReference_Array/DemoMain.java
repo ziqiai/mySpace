@@ -1,4 +1,4 @@
-package javacore.testDemos.multipleFiles.MethodReference_Array;
+package javacore.myDemos.multipleFiles.methodReference_Array;
 
 public class DemoMain {
     // 定义方法,参数传递length和接口,方法内部创建指定长度的数组并返回

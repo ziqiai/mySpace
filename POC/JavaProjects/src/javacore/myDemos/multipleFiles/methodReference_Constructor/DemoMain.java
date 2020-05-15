@@ -1,4 +1,4 @@
-package javacore.testDemos.multipleFiles.MethodReference_Constructor;
+package javacore.myDemos.multipleFiles.methodReference_Constructor;
 
 public class DemoMain {
     // 定义方法,参数中传递name和PersonBuilder接口,方法中通过姓名创建并打印对象

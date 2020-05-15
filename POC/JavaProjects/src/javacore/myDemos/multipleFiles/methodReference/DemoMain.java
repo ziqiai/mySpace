@@ -1,4 +1,4 @@
-package javacore.testDemos.multipleFiles.MethodReference;
+package javacore.myDemos.multipleFiles.methodReference;
 
 public class DemoMain {
     // 定义一个方法,参数传递PrintInterface接口,对字符串进行打印

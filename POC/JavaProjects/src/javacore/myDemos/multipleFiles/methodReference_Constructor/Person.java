@@ -1,4 +1,4 @@
-package javacore.testDemos.multipleFiles.MethodReference_Constructor;
+package javacore.myDemos.multipleFiles.methodReference_Constructor;
 
 public class Person {
     private String name;

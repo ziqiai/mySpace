@@ -2,45 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e6bf6db-dcc1-4cac-a1fd-8deb5c3e5146" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/javacore/testDemos/multipleFiles/MethodReference/DemoMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javacore/testDemos/multipleFiles/MethodReference/PrintInterface.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProjects/javacore/innerclasses/demo01/DemoMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProjects/javacore/innerclasses/demo01/Outer$1Inner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProjects/javacore/innerclasses/demo01/Outer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProjects/javacore/innerclasses/demo02/DemoMain$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProjects/javacore/innerclasses/demo02/DemoMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProjects/javacore/innerclasses/demo02/MyInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProjects/javacore/test/demos/Test01Equals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProjects/javacore/test/demos/Test02DateFormat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProjects/javacore/test/demos/Test03Calendar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProjects/javacore/test/demos/Test04Map.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProjects/javacore/test/demos/Test05Supplier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProjects/javacore/test/demos/Test06Consumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProjects/javacore/test/demos/Test07ConsumerAndThen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProjects/javacore/test/demos/Test08Predicate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProjects/javacore/test/demos/Test09Predicate_and_or_negate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProjects/javacore/test/demos/Test10Predicate_Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProjects/javacore/test/demos/Test11Function.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProjects/javacore/test/demos/Test12FunctionAndThen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProjects/javacore/test/demos/Test13Stream_forEach_filter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProjects/javacore/test/demos/Test14Stream_Methods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacore/testDemos/multiple/MethodReference/DemoMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacore/testDemos/multiple/MethodReference/PrintInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacore/testDemos/single/Test01Equals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/testDemos/singleFile/Test01Equals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacore/testDemos/single/Test02DateFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/testDemos/singleFile/Test02DateFormat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacore/testDemos/single/Test03Calendar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/testDemos/singleFile/Test03Calendar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacore/testDemos/single/Test04Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/testDemos/singleFile/Test04Map.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacore/testDemos/single/Test05Supplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/testDemos/singleFile/Test05Supplier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacore/testDemos/single/Test06Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/testDemos/singleFile/Test06Consumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacore/testDemos/single/Test07ConsumerAndThen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/testDemos/singleFile/Test07ConsumerAndThen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacore/testDemos/single/Test08Predicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/testDemos/singleFile/Test08Predicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacore/testDemos/single/Test09Predicate_and_or_negate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/testDemos/singleFile/Test09Predicate_and_or_negate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacore/testDemos/single/Test10Predicate_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/testDemos/singleFile/Test10Predicate_Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacore/testDemos/single/Test11Function.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/testDemos/singleFile/Test11Function.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacore/testDemos/single/Test12FunctionAndThen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/testDemos/singleFile/Test12FunctionAndThen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacore/testDemos/single/Test13Stream_forEach_filter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/testDemos/singleFile/Test13Stream_forEach_filter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacore/testDemos/single/Test14Stream_Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/testDemos/singleFile/Test14Stream_Methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacore/testDemos/multipleFiles/MethodReference/DemoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/myDemos/multipleFiles/methodReference/DemoMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacore/testDemos/multipleFiles/MethodReference/PrintInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/myDemos/multipleFiles/methodReference/PrintInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacore/testDemos/multipleFiles/MethodReference_Array/ArrayBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/myDemos/multipleFiles/methodReference_Array/ArrayBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacore/testDemos/multipleFiles/MethodReference_Array/DemoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/myDemos/multipleFiles/methodReference_Array/DemoMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacore/testDemos/multipleFiles/MethodReference_Constructor/DemoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/myDemos/multipleFiles/methodReference_Constructor/DemoMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacore/testDemos/multipleFiles/MethodReference_Constructor/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/myDemos/multipleFiles/methodReference_Constructor/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacore/testDemos/multipleFiles/MethodReference_Constructor/PersonBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/myDemos/multipleFiles/methodReference_Constructor/PersonBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacore/testDemos/singleFile/Test01Equals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/myDemos/singleFile/Test01Equals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacore/testDemos/singleFile/Test02DateFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/myDemos/singleFile/Test02DateFormat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacore/testDemos/singleFile/Test03Calendar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/myDemos/singleFile/Test03Calendar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacore/testDemos/singleFile/Test04Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/myDemos/singleFile/Test04Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacore/testDemos/singleFile/Test05Supplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/myDemos/singleFile/Test05Supplier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacore/testDemos/singleFile/Test06Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/myDemos/singleFile/Test06Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacore/testDemos/singleFile/Test07ConsumerAndThen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/myDemos/singleFile/Test07ConsumerAndThen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacore/testDemos/singleFile/Test08Predicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/myDemos/singleFile/Test08Predicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacore/testDemos/singleFile/Test09Predicate_and_or_negate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/myDemos/singleFile/Test09Predicate_and_or_negate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacore/testDemos/singleFile/Test10Predicate_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/myDemos/singleFile/Test10Predicate_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacore/testDemos/singleFile/Test11Function.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/myDemos/singleFile/Test11Function.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacore/testDemos/singleFile/Test12FunctionAndThen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/myDemos/singleFile/Test12FunctionAndThen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacore/testDemos/singleFile/Test13Stream_forEach_filter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/myDemos/singleFile/Test13Stream_forEach_filter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacore/testDemos/singleFile/Test14Stream_Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/myDemos/singleFile/Test14Stream_Methods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,13 +59,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
   </component>
-  <component name="RunManager" selected="Application.DemoMain (1)">
-    <configuration name="DemoMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacore.testDemos.multipleFiles.MethodReference_Array.DemoMain" />
+  <component name="RunManager" selected="Application.DemoMain3">
+    <configuration name="DemoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.myDemos.multipleFiles.MethodReference_Array.DemoMain" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javacore.testDemos.multipleFiles.MethodReference_Array.*" />
+          <option name="PATTERN" value="javacore.myDemos.multipleFiles.MethodReference_Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +73,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacore.testDemos.multiple.MethodReference.DemoMain" />
+    <configuration name="DemoMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.myDemos.multipleFiles.reflectSimpleDemo.demoMains.DemoMain1" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javacore.testDemos.multiple.MethodReference.*" />
+          <option name="PATTERN" value="javacore.myDemos.multipleFiles.reflectSimpleDemo.demoMains.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.myDemos.multipleFiles.reflectSimpleDemo.demoMains.DemoMain2" />
+      <module name="JavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacore.myDemos.multipleFiles.reflectSimpleDemo.demoMains.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.myDemos.multipleFiles.reflectSimpleDemo.demoMains.DemoMain3" />
+      <module name="JavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacore.myDemos.multipleFiles.reflectSimpleDemo.demoMains.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,19 +118,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="javacore.testDemos.multipleFiles.MethodReference_Constructor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacore.ttttsstttt.Method" />
-      <module name="JavaProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javacore.ttttsstttt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoMain3" />
+        <item itemvalue="Application.DemoMain2" />
+        <item itemvalue="Application.DemoMain1" />
         <item itemvalue="Application.DemoMain (1)" />
         <item itemvalue="Application.DemoMain (1)" />
-        <item itemvalue="Application.DemoMain" />
-        <item itemvalue="Application.Test14Stream_Methods" />
-        <item itemvalue="Application.Test13Stream_forEach_filter" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +179,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -199,10 +197,10 @@
     </state>
     <state x="200" y="141" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1583270322238" />
     <state x="651" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582676153884" />
-    <state x="1148" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1589407535421">
+    <state x="1049" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1589508758158">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="1148" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1589407535421" />
+    <state x="1049" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1589508758158" />
     <state x="475" y="272" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583270309337">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -215,50 +213,50 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="927" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582675887567" />
-    <state width="1493" height="446" key="GridCell.Tab.0.bottom" timestamp="1589410175265">
+    <state width="1133" height="441" key="GridCell.Tab.0.bottom" timestamp="1589511183459">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="446" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589410175265" />
+    <state width="1133" height="441" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589511183459" />
     <state width="1235" height="56" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583214788198" />
-    <state width="1493" height="446" key="GridCell.Tab.0.center" timestamp="1589410175264">
+    <state width="1133" height="441" key="GridCell.Tab.0.center" timestamp="1589511183459">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="446" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589410175264" />
+    <state width="1133" height="441" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589511183459" />
     <state width="1235" height="56" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583214788198" />
-    <state width="1493" height="446" key="GridCell.Tab.0.left" timestamp="1589410175264">
+    <state width="1133" height="441" key="GridCell.Tab.0.left" timestamp="1589511183459">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="446" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589410175264" />
+    <state width="1133" height="441" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589511183459" />
     <state width="1235" height="56" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583214788198" />
-    <state width="1493" height="446" key="GridCell.Tab.0.right" timestamp="1589410175265">
+    <state width="1133" height="441" key="GridCell.Tab.0.right" timestamp="1589511183459">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="446" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589410175265" />
+    <state width="1133" height="441" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589511183459" />
     <state width="1235" height="56" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583214788198" />
-    <state width="1493" height="446" key="GridCell.Tab.1.bottom" timestamp="1589410175265">
+    <state width="1133" height="441" key="GridCell.Tab.1.bottom" timestamp="1589511183460">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="446" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589410175265" />
-    <state width="1493" height="446" key="GridCell.Tab.1.center" timestamp="1589410175265">
+    <state width="1133" height="441" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589511183460" />
+    <state width="1133" height="441" key="GridCell.Tab.1.center" timestamp="1589511183459">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="446" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1589410175265" />
-    <state width="1493" height="446" key="GridCell.Tab.1.left" timestamp="1589410175265">
+    <state width="1133" height="441" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1589511183459" />
+    <state width="1133" height="441" key="GridCell.Tab.1.left" timestamp="1589511183459">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="446" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1589410175265" />
-    <state width="1493" height="446" key="GridCell.Tab.1.right" timestamp="1589410175265">
+    <state width="1133" height="441" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1589511183459" />
+    <state width="1133" height="441" key="GridCell.Tab.1.right" timestamp="1589511183459">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="446" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589410175265" />
+    <state width="1133" height="441" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589511183459" />
     <state x="321" y="0" key="SettingsEditor" timestamp="1589402169645">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="321" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589402169645" />
-    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1589401471127">
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1589496328576">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589401471127" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589496328576" />
     <state x="576" y="303" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583194116519" />
     <state x="564" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589401011071">
       <screen x="0" y="0" width="1536" height="824" />
@@ -276,9 +274,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="1001" y="158" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1589408301082" />
-    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586357185381">
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1589510954680">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586357185381" />
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1589510954680" />
   </component>
 </project>

@@ -1,4 +1,4 @@
-package javacore.testDemos.multipleFiles.MethodReference_Array;
+package javacore.myDemos.multipleFiles.methodReference_Array;
 
 @FunctionalInterface
 public interface ArrayBuilder {

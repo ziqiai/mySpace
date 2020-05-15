@@ -1,4 +1,4 @@
-package javacore.testDemos.multipleFiles.MethodReference;
+package javacore.myDemos.multipleFiles.methodReference;
 
 @FunctionalInterface
 public interface PrintInterface {

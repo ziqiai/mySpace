@@ -1,4 +1,4 @@
-package javacore.testDemos.singleFile;
+package javacore.myDemos.singleFile;
 
 import java.util.HashMap;
 import java.util.Scanner;
